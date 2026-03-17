@@ -1,0 +1,5 @@
+{
+  "name": "记忆碎片 (Memory Fragments)",
+  "description": "A full-stack note-taking application built with React, Vite, and Express, inspired by the deep sea.",
+  "requestFramePermissions": []
+}
